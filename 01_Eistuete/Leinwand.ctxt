@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Leinwand\ gibLeinwand()
+comment1.params=titel\ breite\ hoehe\ grundfarbe
+comment1.target=Leinwand(java.lang.String,\ int,\ int,\ java.awt.Color)
+comment2.params=sichtbar
+comment2.target=void\ setzeSichtbarkeit(boolean)
+comment3.params=figur\ farbe\ shape
+comment3.target=void\ zeichne(java.lang.Object,\ java.lang.String,\ java.awt.Shape)
+comment4.params=figur
+comment4.target=void\ entferne(java.lang.Object)
+comment5.params=farbname
+comment5.target=void\ setzeZeichenfarbe(java.lang.String)
+comment6.params=millisekunden
+comment6.target=void\ warte(int)
+comment7.params=
+comment7.target=void\ erneutZeichnen()
+comment8.params=
+comment8.target=void\ loeschen()
+numComments=9

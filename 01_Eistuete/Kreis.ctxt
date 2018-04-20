@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=r\ x\ y
+comment0.target=Kreis(int,\ int,\ int)
+comment1.target=void\ sichtbarMachen()
+comment10.params=entfernung
+comment10.target=void\ langsamVertikalBewegen(int)
+comment11.params=neuerRadius
+comment11.target=void\ groesseAendern(int)
+comment12.params=neueFarbe
+comment12.target=void\ farbeAendern(String)
+comment13.target=void\ zeichnen()
+comment14.target=void\ loeschen()
+comment2.target=void\ unsichtbarMachen()
+comment3.target=void\ nachRechtsBewegen()
+comment4.target=void\ nachLinksBewegen()
+comment5.target=void\ nachObenBewegen()
+comment6.target=void\ nachUntenBewegen()
+comment7.params=entfernung
+comment7.target=void\ horizontalBewegen(int)
+comment8.params=entfernung
+comment8.target=void\ vertikalBewegen(int)
+comment9.params=entfernung
+comment9.target=void\ langsamHorizontalBewegen(int)
+numComments=15
